@@ -1,0 +1,4 @@
+Paquetes instalados
+
+bcryptjs (encriptar contrasena)
+express-validator (validacion de campos) / (usado en controllers->users y routes->user)
